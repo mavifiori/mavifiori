@@ -57,7 +57,7 @@ Mestranda em Ciência da Computação na **UNICAMP** com foco em Big Data, Segur
 | Projeto | Descrição | Stack |
 |---|---|---|
 | [rag-data-platform](https://github.com/mavifiori/rag-data-platform) | Plataforma RAG end-to-end com ingestão assíncrona, busca vetorial e LLMs locais | FastAPI · pgvector · MinIO · Ollama |
-| [ai-assistant](https://github.com/mavifiori/ai-assistant) | Agente conversacional com tool calling — clima, índice UV, calculadora | LangChain · LangGraph · Groq |
+| [react-agent-tools](https://github.com/mavifiori/react-agent-tools) | Agente conversacional com tool calling — clima, índice UV, calculadora | LangChain · LangGraph · Groq |
 | [Backlogs-data-ReBI0s](https://github.com/mavifiori/Backlogs-data-ReBI0s-) | Modelagem de ameaças (PASTA/STRIDE) aplicada a arquitetura Big Data | Security · Threat Modeling |
 
 ---
