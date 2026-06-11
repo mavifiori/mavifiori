@@ -1,7 +1,7 @@
 <h1 align="center">Maria Victoria Soares Fiori</h1>
 
 <p align="center">
-  Engenheira de Software &nbsp;|&nbsp; MSc @ UNICAMP &nbsp;|&nbsp; AI Engineering & Data Architecture
+  Engenheira de Software e Dados &nbsp;|&nbsp; MSc @ UNICAMP &nbsp;|&nbsp; AI Engineering & Data Architecture
 </p>
 
 <p align="center">
